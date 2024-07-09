@@ -1,0 +1,5 @@
+@import '@radix-ui/themes/styles.css';
+@import './styles/_upload.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
